@@ -9,5 +9,6 @@ I'm a student studying Computer Science and diving into the exciting world of pr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beastxbolt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beastxbolt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+A bug a day, keeps the release date away!
 ---
 [![](https://visitcount.itsvg.in/api?id=beastxbolt&icon=0&color=0)](https://visitcount.itsvg.in)
