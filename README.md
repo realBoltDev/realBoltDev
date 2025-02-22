@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student studying Computer Science and diving into the exciting world of programming.<br>I have a passion for building stuff. I'm also interested in new technologies and Game Development.
+I'm a student studying Computer Science and diving into the exciting world of programming.<br>I have a passion for building stuff. I'm also interested in open-source and new technologies.
 
 
 # 💻 Tech Stack:
